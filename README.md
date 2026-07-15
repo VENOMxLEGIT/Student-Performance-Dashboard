@@ -1,1 +1,3 @@
 # Student-Performance-Dashboard
+
+Student Performance Analysis using Python is a data analytics project that examines student academic performance to identify trends, patterns, and factors influencing exam scores. The project includes data cleaning, preprocessing, exploratory data analysis (EDA), and visualization using Python libraries such as Pandas, NumPy, Matplotlib. It analyzes subject-wise performance, score distributions, correlations, and the impact of factors such as study habits, attendance, and parental background, providing actionable insights to support data-driven educational decisions.
